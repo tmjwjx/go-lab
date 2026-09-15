@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no">
+    <title>Document</title>
+    <link rel="stylesheet" href="static/css/house.css">
+    <link rel="stylesheet" href="static/iconfont/iconfont.css">
+</head>
+<body>
+    <div class="biggest">
+       <div class="first-big">
+         <div class="title">"找不同"等待房间</div>
+         <div class="invite"><a href="https://www.baidu.com/">邀请好友</a></div>
+       </div> 
+       <div class="second-big">
+        <div class="player1">
+            <img :src="personInfo.avatar" >
+            <div class="name">昵称：<input type="text"></div>
+        </div>
+        <i class="iconfont">&#xe600;</i>
+        <div class="player2">
+            <img :src="personInfo.avatar" >
+            <div class="name">昵称：<input type="text"></div>
+          
+        </div>
+        <div class="third-big">
+            <button class="button1">单人模式</button>
+            <button class="button2">双人模式</button>
+        </div>
+       </div>
+    </div>
+    <script src="/static/js/house.js"></script>
+</body>
+</html> 

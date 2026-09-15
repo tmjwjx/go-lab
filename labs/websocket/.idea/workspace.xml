@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bea19894-f92d-48f0-8340-3203aac7ebf4" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+        <option value="HTML File" />
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../Go" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2fid5SIJrbpnLlHqeEsXI5cDZ2n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go Application",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Go 构建.go build main.go (1).executor": "Run",
+    "Go 构建.go build main.go (2).executor": "Run",
+    "Go 构建.go build main.go (3).executor": "Run",
+    "Go 构建.go build main.go.executor": "Run",
+    "Go 构建.go build server.go (1).executor": "Run",
+    "Go 构建.go build server.go (2).executor": "Run",
+    "Go 构建.go build server.go.executor": "Run",
+    "Go 构建.go build websocket.executor": "Run",
+    "Go 构建.go build websocket/easy/client1.executor": "Run",
+    "Go 构建.go build websocket/easy/server.executor": "Run",
+    "Go 构建.go build websocket/practice/easy/client.executor": "Run",
+    "Go 构建.go build websocket/practice/easy/server.executor": "Run",
+    "Go 构建.go build websocket/practice/p1/client.executor": "Run",
+    "Go 构建.go build websocket/practice/p1/server.executor": "Run",
+    "Go 构建.go build websocket/practice/p2.executor": "Run",
+    "Go 构建.go build websocket/practice/p2/client.executor": "Run",
+    "Go 构建.go build websocket/practice/p2/server.executor": "Run",
+    "Go 构建.go build websocket/practice/p3/client.executor": "Run",
+    "Go 构建.go build websocket/practice/p3/server.executor": "Run",
+    "Go 构建.go build websocket/practice/p6/server.executor": "Run",
+    "Go 构建.go build websocket/practice/server.executor": "Run",
+    "Go 构建.go build websocket/test.executor": "Run",
+    "JavaScript 调试.index.html.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "D:/workspace/Go/websocket/practice/html",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\Go\websocket\practice" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\Go\websocket\ll" />
+      <recent name="D:\workspace\Go\websocket\practice" />
+      <recent name="D:\workspace\Go\websocket\practice\p1" />
+      <recent name="D:\workspace\Go\websocket" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-33c477a475b1-e0158606a674-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-241.18968.32" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-GO-241.18968.32" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>

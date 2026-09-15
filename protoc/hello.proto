@@ -1,0 +1,26 @@
+// 说明使用的是proto3语法
+syntax = "proto3";
+
+// 定义一个包名
+package hello;
+
+// ./是指生成到当前目录 hello是指包名
+option go_package = "./;hello";
+
+// 定义一个消息类型 约等于golang里的结构体
+message HelloRequest{
+  // 1 2 3是字段的唯一标识 消息号
+  int64           id    = 1;
+  string          hello = 2;
+  repeated string word  = 3;
+}
+message HelloResponse{
+  int64           id    = 1;
+  string          hello = 2;
+  repeated string word  = 3;
+}
+
+// 定义一个服务 约等于golang里的接口
+service SayHello{
+  rpc SayHello(HelloRequest) returns (HelloResponse) {}
+}

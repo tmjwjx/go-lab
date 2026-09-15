@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d5f797f-bce4-4a0c-8ccc-48c110062e0f" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Go File" />
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../goproject/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.7.windows-amd64" />
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/go_web/http/server/main.go" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2npZE4IogdxP7SOxOL5s6kbqpC4" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go Application&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Go 构建.go build client.go.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build go1.go.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/a.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/api.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/assessment.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/assessment/client.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/assessment/server.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/channel.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/chat_room/client.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/chat_room/client/main.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/chat_room/server.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/chat_room/server/main.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/eino.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/eino/eino.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/etcd.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/go_web/http/client.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/go_web/http/server.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/go_web/web_socket.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/go_web/websocket_doc.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/go_web/websocket_video/client.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/go_web/websocket_video/server.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/goroutine.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/html.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/http/client.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/http/server.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/json.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/langchaingo.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/redis.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/reflect.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/socks5.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/str.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/time.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build library/zap.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build main.go (1).executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build main.go (2).executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build main.go (3).executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build main.go.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build server.go.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.TestExample1 in library/test.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.TestExample2 in library/test.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.TestS in library/test.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.TestSplit in library/test.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.library/test 中的 TestSplit.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript 调试.gpt.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript 调试.local.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/workspace/Go/library&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\Go\library" />
+      <recent name="D:\workspace\Go\library\util" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\Go\library\mcp" />
+      <recent name="D:\workspace\Go\library\mcp\server" />
+      <recent name="D:\workspace\Go\library\eino" />
+      <recent name="D:\workspace\Go\library\eino\github" />
+      <recent name="D:\workspace\Go\library\chat_room\client\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go 构建.go build library">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="library" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build library" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="library" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="library" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build library/eino" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="library" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="library/eino" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/eino/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build library/eino/eino" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="library" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="library/eino/eino" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/eino/eino/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build library/etcd" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="library" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="library/etcd" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/etcd/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build library/langchaingo" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="library" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="library/langchaingo" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/langchaingo/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="library" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go 构建.go build library" />
+        <item itemvalue="Go 构建.go build library/eino" />
+        <item itemvalue="Go 构建.go build library/langchaingo" />
+        <item itemvalue="Go 构建.go build library/eino/eino" />
+        <item itemvalue="Go 构建.go build library/etcd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-33c477a475b1-e0158606a674-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-241.18968.32" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-GO-241.18968.32" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="DlvErrorBreakpoint" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

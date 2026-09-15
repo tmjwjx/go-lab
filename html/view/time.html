@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="UTF-8">
+    <title>Current Time</title>
+</head>
+<body>
+完整时间：{{.}}<br>
+年：{{.Year}}<br>
+月：{{.Month}}<br>
+日：{{.Day}}<br>
+转化后的格式：{{.Format "2006-01-02 15:04:05"}}<br>
+<!--调用自定义函数的时候：{{ mf . }}<br>-->
+</body>
+</html>

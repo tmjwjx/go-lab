@@ -1,0 +1,110 @@
+body {
+    width: 100%;
+    height: 100vh;
+    min-width: 320px;
+    margin: 0 auto;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.biggest {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-color: aquamarine;
+}
+.first-big {
+    width: 100%;
+    height: 10vh;
+    position: relative;
+}
+.title {
+    width: 80%;
+    height: 10vh;
+    text-align: center;
+    line-height: 10vh;
+    border: solid 1px;
+    font-size: 20px;
+    font-weight: 800;
+}
+.invite {
+    width: 20%;
+    height: 10vh;
+    border: solid 1px;
+    text-align: center;
+    line-height: 10vh;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    border-left: none;
+}
+.second-big {
+    width: 100%;
+    height: 70vh;
+    border: solid 1px;
+    position: relative;
+}
+.player1 {
+    width: 45%;
+    height: 70vh;
+    border-right: solid 1px;
+    background-color: antiquewhite;
+    position: relative;
+
+}
+.iconfont {
+    width: 10%;
+    height: 50px;
+    position: absolute;
+    left: 45%;
+    top: 35vh;
+    text-align: center;
+}
+.player2 {
+    width: 45%;
+    height: 70vh;
+    background-color: blueviolet;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+.third-big {
+    width: 100%;
+    height: 20vh;
+    background-color: black;
+    position: relative;
+}
+button {
+     width: 120px;
+     height: 50px;
+}
+.button1 {
+    position: absolute;
+    left: 15%;
+    top: 5vh;
+}
+.button2 {
+    position: absolute;
+    right: 15%;
+    top: 5vh;
+}
+img {
+    width: 30%;
+    height: 30vh;
+    margin-top: 40px;
+}
+img[src=""],img:not([src]){
+    width: 0;
+    height: 0;
+    padding: 45% 45%;
+    background: url('/static/images/lQLPJxER-FwfJofMyMzIsPypi8MhZpIZBaqH4qCszAA_200_200.png') no-repeat center;
+    background-size: 100% 100%;
+}
+input {
+    width: 40%;
+}
+.name {
+    padding-left: 15%;
+
+}

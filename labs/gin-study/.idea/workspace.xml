@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="759e1fca-2448-422b-af35-88411ad8ec64" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../goproject/pkg/mod/golang.org/toolchain@v0.0.1-go1.23rc1.windows-amd64" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2j3KzTkC9snplZ6BlCm0gsJiLxS" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Go 构建.go build 11.单个路由中间件.go.executor": "Run",
+    "Go 构建.go build 12.全局中间件.go.executor": "Run",
+    "Go 构建.go build 13.路由分组.go.executor": "Run",
+    "Go 构建.go build 2.响应.go.executor": "Run",
+    "Go 构建.go build 2.输出文件到日志.go.executor": "Run",
+    "Go 构建.go build 3.hook.go.executor": "Run",
+    "Go 构建.go build 3.请求.go.executor": "Run",
+    "Go 构建.go build 4.Restful风格.go.executor": "Run",
+    "Go 构建.go build 4.日志时间分割.go.executor": "Run",
+    "Go 构建.go build 5.日志时间分割_hook.go.executor": "Run",
+    "Go 构建.go build 5.请求头相关.go.executor": "Run",
+    "Go 构建.go build 6.参数绑定.go.executor": "Run",
+    "Go 构建.go build 6.日志等级分割.go.executor": "Run",
+    "Go 构建.go build 7.参数验证.go.executor": "Run",
+    "Go 构建.go build 7.自定义验证其.go.executor": "Run",
+    "Go 构建.go build 9.文件上传.go.executor": "Run",
+    "Go 构建.go build gin-study.executor": "Run",
+    "Go 构建.go build gin-study/logrus.executor": "Run",
+    "Go 构建.go build gin-study/logrus/gin_logrus.executor": "Run",
+    "Go 构建.go build main.go.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "D:/workspace/Go/watermelon",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\Go\watermelon\gin-study\gin" />
+      <recent name="D:\workspace\Go\watermelon\gin-study\logrus" />
+      <recent name="D:\workspace\Go\watermelon\gin-study\log_level" />
+      <recent name="D:\workspace\Go\watermelon\gin-study\gin_logrus\middleware" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go 构建.go build main.go">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="gin-study" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 5.日志时间分割_hook.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gin-study" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/logrus/5.日志时间分割_hook.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 6.日志等级分割.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gin-study" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/logrus/6.日志等级分割.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build gin-study/logrus" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gin-study" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="gin-study/logrus" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/logrus/2.输出文件到日志.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build gin-study/logrus/gin_logrus" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gin-study" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="gin-study/logrus/gin_logrus" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/logrus/gin_logrus/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gin-study" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/logrus/gin_logrus/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="gin-study" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go 构建.go build main.go" />
+        <item itemvalue="Go 构建.go build gin-study/logrus/gin_logrus" />
+        <item itemvalue="Go 构建.go build 6.日志等级分割.go" />
+        <item itemvalue="Go 构建.go build 5.日志时间分割_hook.go" />
+        <item itemvalue="Go 构建.go build gin-study/logrus" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-33c477a475b1-e0158606a674-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-241.18968.32" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-GO-241.18968.32" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="https://goproxy.cn,direct" />
+      </map>
+    </environment>
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>

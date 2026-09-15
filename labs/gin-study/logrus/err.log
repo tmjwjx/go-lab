@@ -1,0 +1,2 @@
+[31mERRO[0m[2024-07-16 15:33:07]D:/workspace/Go/watermelon/gin-study/logrus/3.hook.go:33 main.main() hello                                        
+time="2024-07-16T21:08:57+08:00" level=error msg=xxx
